@@ -1,0 +1,33 @@
+
+Tic Tac Toe Tests
+
+Actors: UI, Strategist, Policy
+
+ 
+
+Tests:
+Place an X on position (0,0) - check
+Place an O in position (0,0) - check
+detect if col is not filled - check
+Win vertically - check
+win horizontally - check
+detect if row is not filled - check
+win diagonally - check
+board is empty on new game - check
+board is not empty when a move is place - check
+determine if x wins - check
+determine if o wins - check
+don't allow to make a move if someone already won - check
+update UI board based on input - check
+display multiple inputs on UI - check
+display winner on UI - check
+gets row from input user (comma separated coordinates) - check
+gets col from input user (comma separated coordinates) - check
+
+
+validate decoding of row and col
+
+
+
+
+row, col validation

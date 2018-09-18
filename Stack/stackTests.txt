@@ -1,0 +1,19 @@
+create empty stack - done
+increase stack size upon push - done 
+decrease stack size upon pop - done
+creating new stack with capacity - done
+throw overflow exception when pushed past capacity - done
+throw underflow exception when pushed past 0 - done
+throw illegal exception when creating negative capacity stack - done
+push one and pop one - done
+push two, push one -> pop one, pop two - done
+handle zero capacity stack - done
+see top elemeent - done
+top() when stack is empty - done
+top element with zero capacity stack - done
+
+find() element
+find() element when stack is empty
+result when no element was found
+
+

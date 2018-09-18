@@ -1,0 +1,41 @@
+Use Cases
+
+Accept NXM minesweeper grid with predefined mines from user
+Alternative 1: Invalid grid size input
+Alternative 2: Invalid safe square or mine character input
+Alternative 3: Grid elements input exceeds grid size
+
+
+Unit tests:
+createMinesweeper - check
+Accept first field (grid dimensions) from user - check
+Create grid after accepting dimensions from user - check
+Empty row elements input - check
+Null grid elements input - check
+all safe field inputs - check
+has mine field input - check
+col input exceeded grid col - check
+row input exceeded grid rows - check
+no space between fields - check
+extra spaces in row elements - check
+mine sweep when input are all safe fields - check
+mine sweep when all mines - check
+
+horizontal adjacent mine
+vertical adjacent mine
+diagonal adjacent mine
+multi directions adjacent mines
+two mines
+
+Invalid row and col input for GetGridElementAt
+Invalid grid element input
+Non integer inputs
+
+
+
+
+Show the grid with hints about the mines placed by the user
+
+
+
+

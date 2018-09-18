@@ -1,0 +1,14 @@
+Flames
+
+Acceptance Test
+
+Get names (ignore white spaces, all lower case)
+
+Remove similar letters in names
+
+Sum up the remaining letters
+
+Loop over letters of FLAMES. Start from 0 until the total number of remaining letters. 
+Remove the letter when the index of the loop is equal to the total number of remaining letters
+
+Remaining letter is the desired resulta

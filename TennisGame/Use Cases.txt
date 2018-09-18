@@ -1,0 +1,16 @@
+Use Cases
+a. Add 2 players upon game creation - Done
+	Alternative 1: Set default player name if invalid name input
+
+b. Increment player score - Done
+
+c. Determine if a player wins: Player wins by getting four points first and two points more than the opponent's score - Done
+	Alternative 1: Player has four points but the advantage with the opponent is less than two points, player does not win
+	Alternative 2: Player has two points greater than the opponent but has less than four points, player does not win
+	Alternstive 3: If winner is retrieved and no one has one yet, return "Game not finished"
+
+d. Display playere score - (Love, 15, 30, 40)
+	Alternative 1: Display Deuce when score is 40-40 or both players score 3 points
+	Alternative 2: Display "Advantage Player X" whenever a player scores after a deuce
+e. Change player name
+	Alternative 1: Throw error when invalid player name

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorization", "PrimeFactorization\PrimeFactorization.csproj", "{7BBBCE37-344C-4F3B-8F09-2C4DCB16F082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorization.Tests", "PrimeFactorization.Tests\PrimeFactorization.Tests.csproj", "{C89FAF44-9A37-420A-AAA9-D40F532B3564}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BBBCE37-344C-4F3B-8F09-2C4DCB16F082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BBBCE37-344C-4F3B-8F09-2C4DCB16F082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BBBCE37-344C-4F3B-8F09-2C4DCB16F082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BBBCE37-344C-4F3B-8F09-2C4DCB16F082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C89FAF44-9A37-420A-AAA9-D40F532B3564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C89FAF44-9A37-420A-AAA9-D40F532B3564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C89FAF44-9A37-420A-AAA9-D40F532B3564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C89FAF44-9A37-420A-AAA9-D40F532B3564}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

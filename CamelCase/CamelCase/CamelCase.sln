@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamelCaseTest", "CamelCaseTest\CamelCaseTest.csproj", "{38E72F57-6E75-4719-99CD-E69872238ACF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38E72F57-6E75-4719-99CD-E69872238ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E72F57-6E75-4719-99CD-E69872238ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E72F57-6E75-4719-99CD-E69872238ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E72F57-6E75-4719-99CD-E69872238ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
